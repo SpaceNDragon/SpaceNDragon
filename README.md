@@ -1,9 +1,9 @@
 ### Hi there 👋, Hi, I'm Nimesh!
 
 
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
-👩🏻‍🎓 Studied Computer Science at the University of Otago, New Zealand
-🎨 Making videos about Computer Science, tech, and productivity on YouTube
-🌷 #learninginpublic in my digital garden
-💭 Currently learning about data analytics and dataviz!
+### \newline👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
+### \newline👩🏻‍🎓 Studied Computer Science at the University of Otago, New Zealand
+### \newline🎨 Making videos about Computer Science, tech, and productivity on YouTube
+### \newline🌷 #learninginpublic in my digital garden
+### \newline 💭 Currently learning about data analytics and dataviz!
 
